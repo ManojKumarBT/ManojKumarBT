@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ManojKumarBT](https://github.com/ManojKumarBT)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ManojKumarBT)
 
 - 💬 Happy to help on these topics: **Java, SpringBoot React**
 
-- 📫 How to reach me: **[https://www.linkedin.com/in/manojkumarbt/](https://www.linkedin.com/in/manojkumarbt/)** or mail to **manojkumarmanu5555@gmail.com**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/manojkumarbt/)** or mail to **manojkumarmanu5555@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
