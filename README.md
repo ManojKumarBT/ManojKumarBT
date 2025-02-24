@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar B T</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from Bengaluru, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumarbt&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumarbt" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ManojKumarBT](https://github.com/ManojKumarBT)
 
-- 💬 Ask me about **Java, React**
+- 💬 Happy to help on these topics: **Java, SpringBoot React**
 
-- 📫 How to reach me **manojkumarmanu5555@gmail.com**
+- 📫 How to reach me: **[https://www.linkedin.com/in/manojkumarbt/](https://www.linkedin.com/in/manojkumarbt/) or mail to **manojkumarmanu5555@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
